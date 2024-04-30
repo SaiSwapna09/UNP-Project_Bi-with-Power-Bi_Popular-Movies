@@ -3,8 +3,8 @@
 Completed this project as a part of my BI with PowerBI Internship with United Network of Professionals (UNP).
 
 This project delves into the "Popular Movies" dataset using Power BI, uncovering insights into user preferences, movie popularity, and genre distribution.
-Provides a comprehensive overview of user preferences and movie trends within the dataset.
-Offers valuable insights for filmmakers, marketers, and movie enthusiasts.
+It provides a comprehensive overview of user preferences and movie trends within the dataset.
+It offers valuable insights for filmmakers, marketers, and movie enthusiasts.
 This project showcases the application of Power BI in analyzing movie data, providing a visually engaging and informative exploration of the "Popular Movies" dataset.
 
 
