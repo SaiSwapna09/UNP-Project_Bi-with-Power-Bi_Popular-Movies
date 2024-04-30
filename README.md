@@ -9,6 +9,8 @@ This project showcases the application of Power BI in analyzing movie data, prov
 
 
 PBIX Link - https://drive.google.com/file/d/1N-a5k4jgdlNdDOvuYiJH1bTLurTrbhsH/view?usp=sharing
- PPT Link - https://drive.google.com/file/d/1NqLgewVrD1XDpohw7ITC4OA5O7IXsM-w/view?usp=sharing
- PDF Link - https://drive.google.com/file/d/1AOnmqSSK96LeD8k_ZAp9c__iib2ycxpL/view?usp=sharing
+ 
+PPT Link - https://drive.google.com/file/d/1NqLgewVrD1XDpohw7ITC4OA5O7IXsM-w/view?usp=sharing
+
+PDF Link - https://drive.google.com/file/d/1AOnmqSSK96LeD8k_ZAp9c__iib2ycxpL/view?usp=sharing
 
